@@ -10,16 +10,19 @@ and code samples created during my internship. "Exploring the fascinating world 
 Table of Contents
 
 TASK 1
-•[Movie genre classification]
-(https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Movie%20genre%20Classification)
+
+•[Movie genre classification](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Movie%20genre%20Classification)
 
 TASK 2
+
 •[Credit card fraud detection](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Credit%20card%20Fraud%20Detection)
 
 TASK 3
+
 •[Customer churn prediction](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Customer%20Churn%20Prediction)
 
 TASK 4
+
 •[Spam sms Detection](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Spam%20Sms%20Detection)
 
 
