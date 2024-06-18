@@ -9,6 +9,7 @@ and code samples created during my internship. "Exploring the fascinating world 
 
 Table of Contents
 
+
 TASK 1
 
 •[Movie genre classification](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Movie%20genre%20Classification)
@@ -26,12 +27,11 @@ TASK 4
 •[Spam sms Detection](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Spam%20Sms%20Detection)
 
 
-[Back to top ↑](https://github.com/Kingisline01/CODSOFT-Intenship_Repo)
-
 
 
 License
-
 This project is licensed under the MIT License, which means you're free to use, 
 modify, and distribute the code as long as you include the original copyright and 
 disclaimers. Refer to the LICENSE file for more details.
+
+[Back to top ↑](https://github.com/Kingisline01/CODSOFT-Intenship_Repo)
