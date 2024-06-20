@@ -7,7 +7,10 @@ and code samples created during my internship. "Exploring the fascinating world 
 
 
 
+
+
 Table of Contents
+
 
 
 
@@ -18,6 +21,8 @@ TASK 1
 For further references, please refer to the video available in the Google Drive link below:
 [Google Drive](https://drive.google.com/file/d/1aq0Su7-ocitJsLQeOYVviZT2U9lrRJOM/view?usp=sharing)
 
+
+
 TASK 2
 
 •[Credit card fraud detection](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Credit%20card%20Fraud%20Detection)
@@ -25,12 +30,16 @@ TASK 2
 For further references, please refer to the video available in the Google Drive link below:
 [Google Drive](https://drive.google.com/file/d/1-fdXY58Hf20Ht_BDUhTu5qBMOajKDWtC/view?usp=sharing)
 
+
+
 TASK 3
 
 •[Customer churn prediction](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Customer%20Churn%20Prediction)
 
 For further references, please refer to the video available in the Google Drive link below:
 [Google Drive](https://drive.google.com/file/d/1GAkF0j704DE0-4FY-5MPYa6TdGU91o7-/view?usp=sharing)
+
+
 
 TASK 4
 
