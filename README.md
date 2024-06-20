@@ -6,16 +6,10 @@ and code samples created during my internship. "Exploring the fascinating world 
 🖥️📊 #MLDevelopment #InternshipExperience #CodingJourney"
 
 
-
-
-
 Table of Contents
 
 
-
-
 TASK 1
-
 •[Movie genre classification](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Movie%20genre%20Classification)
 
 For further references, please refer to the video available in the Google Drive link below:
