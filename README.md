@@ -22,14 +22,22 @@ TASK 2
 
 •[Credit card fraud detection](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Credit%20card%20Fraud%20Detection)
 
+For further references, please refer to the video available in the Google Drive link below:
+[Google Drive](https://drive.google.com/file/d/1-fdXY58Hf20Ht_BDUhTu5qBMOajKDWtC/view?usp=sharing)
+
 TASK 3
 
 •[Customer churn prediction](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Customer%20Churn%20Prediction)
+
+For further references, please refer to the video available in the Google Drive link below:
+[Google Drive](https://drive.google.com/file/d/1GAkF0j704DE0-4FY-5MPYa6TdGU91o7-/view?usp=sharing)
 
 TASK 4
 
 •[Spam sms Detection](https://github.com/Kingisline01/CODSOFT-Intenship_Repo/tree/main/Spam%20Sms%20Detection)
 
+For further references, please refer to the video available in the Google Drive link below:
+[Google Drive](https://drive.google.com/file/d/1BZkivLdfBu1VsLaTFWVtoEBMeYwB_FcK/view?usp=sharing)
 
 
 
